@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi, I'm Uliana 😺
+I'm glad to see you here! I'm just starting to dive headfirst into the world of Java backend development.
+In general worked with monolitic and microservice arthitectures.
 
-<!--
-**UlianaKomissarova/UlianaKomissarova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align='center'>
+   <a href="https://t.me/@ulyana_komissarovaa">
+       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+   </a>
+<p align='center'>
+   📫 How to reach me: <a href='mailto:ulyana_vas@mail.ru'>ulyana_vas@mail.ru</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Technical Stack
+*   Java 11
+*   PostgreSQL 14
+*   Spring Boot, Spring Data Jpa, Spring Jdbc template
+*   GitHub
+*   Docker
