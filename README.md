@@ -12,8 +12,12 @@ In general worked with monolitic and microservice arthitectures.
 </p>
 
 ## 🛠 Technical Stack
-*   Java 11
-*   PostgreSQL 14
+*   Java 17
+*   PostgreSQL, MongoDB, Redis, Liquibase
 *   Spring Boot, Spring Data Jpa, Spring Jdbc template
+*   Hibernate
+*   JUnit, Mockito
 *   GitHub
 *   Docker
+*   Maven, Gradle
+*   Kafka
