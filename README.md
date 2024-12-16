@@ -1,5 +1,5 @@
-# Hi, I'm Uliana 😺
-I'm glad to see you here! I'm just starting to dive headfirst into the world of Java backend development.
+# Hi, I'm Uliana 
+I'm glad to see you here! I'm diving headfirst into the world of Java backend development.
 In general worked with monolitic and microservice arthitectures.
 
 
@@ -8,7 +8,7 @@ In general worked with monolitic and microservice arthitectures.
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
 <p align='center'>
-   📫 How to reach me: <a href='mailto:ulyana_vas@mail.ru'>ulyana_vas@mail.ru</a>
+   📫 How to reach me: <a href='mailto:ulyana_vas@mail.ru'>uliana.komissarovaa@gmail.com</a>
 </p>
 
 ## 🛠 Technical Stack
@@ -21,3 +21,4 @@ In general worked with monolitic and microservice arthitectures.
 *   Docker
 *   Maven, Gradle
 *   Kafka
+*   ELK
